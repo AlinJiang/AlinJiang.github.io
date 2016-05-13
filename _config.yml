@@ -2,14 +2,12 @@
 #
 
 # Site settings
-title: Spectral
+title: LOVE THE ESSENCE
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+  This is a static website of Alin Jiang's blogs.
+owner: Alin Jiang # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: j1i2a3n4g5jiang@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
@@ -18,7 +16,7 @@ social:
   linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
   google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  email: https://j1i2a3n4g5jiang@gmail.com
   #flickr:
   #instagram:
   #youtube-square:
